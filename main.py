@@ -68,7 +68,7 @@ def tiles_by_region(region_name: str, project_path:Path, plot_type='images'):
     ax.set_xlim([x_min, x_max])
     ax.set_ylim([y_min, y_max])
     plt.show()
-    print("P")
+    print("POST")
 
 
 
